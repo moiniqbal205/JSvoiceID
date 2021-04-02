@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #f3f3f3;
+}
+
+.wrapper {
+    text-align: center;
+    margin: 30px auto;
+    max-width: 520px;
+}
+
+#transcript {
+    font-family: sans-serif;
+    margin-top: 15px;
+    background: #2f4f4f;
+    color: #f3f3f3;
+    padding: 20px;
+    min-height: 500px;
+    overflow-y: scroll;
+}
+
+.command {
+    color: #af1e2d;
+}
